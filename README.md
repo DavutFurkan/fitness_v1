@@ -1,16 +1,26 @@
-# fitness
+Fitness Application (First Version)
 
-A new Flutter project.
+This project contains a mobile fitness application developed using Flutter. The application allows users to track their exercise habits and create workout programs.
 
-## Getting Started
+Features:
 
-This project is a starting point for a Flutter application.
+- Workout Programs: Users can access pre-defined workout programs. Workout programs are explained in detail and supported with images.
 
-A few resources to get you started if this is your first Flutter project:
+Technologies Used:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Dart: The application is developed using the Dart programming language.
+- Flutter: Flutter framework is used for UI development.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Usage Guide:
+
+1. Clone the project to your computer or download the ZIP file.
+2. Install Flutter SDK and open the project as a Flutter project.
+3. Run the project on an Android or iOS device or test it on an emulator.
+4. Explore and test different features of the application.
+
+Open to Contribution and Feedback:
+
+This project is open source, and pull requests from contributors are welcome. Your feedback and suggestions are always valuable.
+
+[LinkedIn](https://www.linkedin.com/in/davut-furkan-gurler-/) 
+[Gmail](furkangurler99@gmail.com)
