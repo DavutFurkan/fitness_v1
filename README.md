@@ -23,4 +23,4 @@ Open to Contribution and Feedback:
 This project is open source, and pull requests from contributors are welcome. Your feedback and suggestions are always valuable.
 
 [LinkedIn](https://www.linkedin.com/in/davut-furkan-gurler-/) 
-[Gmail](furkangurler99@gmail.com)
+Gmail: furkangurler99@gmail.com
